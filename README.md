@@ -1,6 +1,6 @@
 # Cats vs Dogs Classification using self defined & pre-trained networks
 
-This repository has been adapted from the pytorch template repository that can be found [here](https://github.com/victoresque/pytorch-template)
+This repository has been adapted from the pytorch template repository that can be found [here](https://github.com/victoresque/pytorch-template).
 The purpose of this repository is to test pre-training benifits and transfer learning on the popular cats vs dogs dataset from kaggle.
 
 ## Additions to the repository
