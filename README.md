@@ -15,17 +15,17 @@ The purpose of this repository is to test pre-training benifits and transfer lea
 ## Performance using the different models
 Model HP: Loss = cross entropy/no regularization, Optimzer = Adam, Batch size = 128
 
-- Model 1: CatsvsDogs ConvNet (trained from scratch) 
+Model 1: CatsvsDogs ConvNet (trained from scratch) 
  - Number of epochs = 5, 
  - **Train Accuracy: 88.93%**
  - **Validation Accuracy: 86.56%**
 
-- Model 2: ResNet18 (Only top 2 layers changed and trained) 
+Model 2: ResNet18 (Only top 2 layers changed and trained) 
  - Number of epochs = 2
  - **Train Accuracy: 96.77%**
  - **Validation Accuracy: 96.88%**
 
-- Model 3: ResNet50 (Only top 2 layers changed and trained) 
+Model 3: ResNet50 (Only top 2 layers changed and trained) 
  - Number of epochs = 2
  - **Train Accuracy: **
  - **Validation Accuracy: **
