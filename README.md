@@ -27,5 +27,5 @@ Model 2: ResNet18 (Only top 2 layers changed and trained)
 
 Model 3: ResNet50 (Only top 2 layers changed and trained) 
  - Number of epochs = 2
- - **Train Accuracy: **
- - **Validation Accuracy: **
+ - **Train Accuracy: 98.13%**
+ - **Validation Accuracy: 98.41%**
