@@ -1,4 +1,4 @@
-# Cats vs Dogs Classification using self defined & pre-trained networks
+# Cats vs Dogs Classification using trained from scratch & pre-trained networks
 
 This repository has been adapted from the pytorch template repository that can be found [here](https://github.com/victoresque/pytorch-template).
 The purpose of this repository is to test pre-training benifits and transfer learning on the popular cats vs dogs dataset from kaggle.
@@ -16,9 +16,9 @@ The purpose of this repository is to test pre-training benifits and transfer lea
 Model HP: Loss = cross entropy/no regularization, Optimzer = Adam, Batch size = 128
 
 Model 1: CatsvsDogs ConvNet (trained from scratch) 
- - Number of epochs = 5, 
- - **Train Accuracy: 88.93%**
- - **Validation Accuracy: 86.56%**
+ - Number of epochs = 10, 
+ - **Train Accuracy: **
+ - **Validation Accuracy: **
 
 Model 2: ResNet18 (Only top 2 layers changed and trained) 
  - Number of epochs = 2
